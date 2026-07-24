@@ -26,7 +26,7 @@
  
 **Вариант 1 — готовый `.exe`** (только Windows):
 ```
-dist/main.exe
+dist/TheWorstGameEver.exe
 ```
  
 **Вариант 2 — из исходников:**
